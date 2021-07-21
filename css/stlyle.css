@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.item {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+item a {
+    text-decoration: none;
+}
