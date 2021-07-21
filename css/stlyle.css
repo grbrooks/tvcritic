@@ -3,10 +3,25 @@
     padding: 0;
 }
 
-.item {
-    list-style-type: none;
+.title {
+    background-color: aqua;
+    text-align: center;
+    font-size: 34px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-item a {
+.item {
+    list-style-type: none;
+    display: inline;
+}
+
+.item a {
+    color: #fff;
+    background-color: blue;
     text-decoration: none;
+    text-transform: uppercase;
+}
+
+.item a:hover {
+    background-color: gray;
 }
