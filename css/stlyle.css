@@ -21,6 +21,7 @@
     text-decoration: none;
     text-transform: uppercase;
     border-radius: 25px;
+    box-shadow: 2px 2px goldenrod;
 }
 
 .item a:hover {
